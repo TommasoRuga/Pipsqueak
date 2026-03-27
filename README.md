@@ -8,7 +8,7 @@ The ISIC archive, one of the largest and most widely used datasets for AI-driven
 
 For the Fitzpatrick 17k dataset, we applied a targeted filtering strategy focusing on melanoma and nevus images from Fitzpatrick V and VI skin tones. This was followed by a manual review to ensure quality. Several challenges emerged: many images showed the same lesion from different angles, requiring careful selection to avoid duplication; moreover, the clinical (non-dermoscopic) nature of the images required additional consideration.
 
-Despite the relatively higher inclusivity of the Fitzpatrick 17k dataset, only 15 usable images were identified, including 9 melanomas and 6 nevi. The manual curation process was extremely demanding, with each selected image underscoring the severe underrepresentation of darker skin phototypes in medical imaging.
+Despite the relatively higher inclusivity of the Fitzpatrick 17k dataset, only 15 usable images were identified, including 9 melanomas and 6 nevi (Fig. 1). The manual curation process was extremely demanding, with each selected image underscoring the severe underrepresentation of darker skin phototypes in medical imaging.
 
 These rare images were sourced from multiple dermatological archives, carefully chosen to provide meaningful insight into how skin lesions present across different skin tones. Through a meticulous and rigorous selection process, we curated a total of 16 images representing patients with darker skin tones.
 
@@ -16,7 +16,7 @@ The final dataset consists of 15 images from Fitzpatrick 17k and one Fitzpatrick
 
 <figure>
 <img width="1382" height="679" alt="immagine" src="https://github.com/user-attachments/assets/2f7c873b-1d32-421b-bdc7-a1302e1aa372" />
-<figcaption>Pipsqueak dataset collects all existing images in the literature referring to darker phototypes.</figcaption>
+<figcaption>Figure 1 - Pipsqueak dataset collects all existing images in the literature referring to darker phototypes.</figcaption>
 </figure>
 
 # How to Cite
