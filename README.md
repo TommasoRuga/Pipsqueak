@@ -23,4 +23,8 @@ The final dataset consists of 15 images from Fitzpatrick 17k and one Fitzpatrick
 
 The dataset is freely available for use. When using it, please cite the original publications. When referencing this dataset in your own manuscripts and publications, please use the following full citations:
 
-[1] Ruga, T., Zumpano, E., Vocaturo, E., Caroprese, L., & Arlia, C. (2025, July). Bias in Dermatological Datasets: A Critical Analysis of the Underrepresentation of Dark Skin Tones in Melanoma Classification Images. In International Conference on Computational Science (pp. 434-448). Cham: Springer Nature Switzerland.
+[1] Ruga, T., Zumpano, E., Aracne, M., Caroprese, L., & Vocaturo, E. (2026). From underrepresentation to evidence: Pipsqueak dataset and explainable analysis of skin tone bias in melanoma detection. Journal of Computational Science, 102858.
+
+Together with the reference to the original publication where it was initially introduced:
+
+[2] Ruga, T., Zumpano, E., Vocaturo, E., Caroprese, L., & Arlia, C. (2025, July). Bias in Dermatological Datasets: A Critical Analysis of the Underrepresentation of Dark Skin Tones in Melanoma Classification Images. In International Conference on Computational Science (pp. 434-448). Cham: Springer Nature Switzerland.
